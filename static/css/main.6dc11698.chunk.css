@@ -1,0 +1,2 @@
+.car{border:1px solid #d8d8d8;margin:20px 0;padding:20px}.car__top{display:grid;grid-template-columns:minmax(350px,1fr) 2fr;grid-gap:20px}.car__top .car__title{width:400px;margin-bottom:20px}.car__top .car__title h3{font-weight:500}.car__top .car__price{text-align:right}.car__top .car__price h2{font-weight:500}.car img{margin-left:60px;max-width:250px;width:100%}*{box-sizing:border-box}.cars{margin:0 auto;width:800px}
+/*# sourceMappingURL=main.6dc11698.chunk.css.map */
