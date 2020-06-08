@@ -5,12 +5,12 @@
 }
 
 .car__top {
-  display: grid;
-  grid-template-columns: minmax(350px, 1fr) 2fr;
-  grid-gap: 20px;
+  display: flex;
+  flex-basis: 48%;
+  justify-content: space-between;
+  height: 5px;
 }
 .car__top .car__title {
-  width: 400px;
   margin-bottom: 20px;
 }
 
